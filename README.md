@@ -212,7 +212,7 @@ TaskPilot-AI/
 
 ### Clone & Configure Environment
 ```bash
-git clone https://github.com/your-username/TaskPilot-AI.git
+git clone https://github.com/LakshGarg17/TaskPilot-AI.git
 cd TaskPilot-AI
 cp .env.example .env
 ```
